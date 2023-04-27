@@ -2,8 +2,7 @@
 - ✨ Computer engineering student at Iran University of Science and Technology (IUST)
 - 👀 I’m interested in software, web, AI, and game development.
 - 🌱 I’m currently learning Data Structures and Algorithms in java.
-- 📫 Reach me on telegram: https://t.me/GhandchiM and also my email: mortezaghandchi7@gmail
-- ✍️ More informations: www.linkedin.com/in/morteza-ghandchi/
+- 📫 Reach me on www.linkedin.com/in/morteza-ghandchi/
 
 <!---
 GhandchiMorteza/GhandchiMorteza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
